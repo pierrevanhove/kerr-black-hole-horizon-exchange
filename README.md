@@ -1,5 +1,5 @@
 # Kerr horizon-exchange law: numerical checks
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.nnnnn.svg)](https://doi.org/10.5281/zenodo.nnnnn)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23922017.svg)](https://doi.org/10.5281/zenodo.23922017)
 [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
 [![Author: Pierre Vanhove](https://img.shields.io/badge/author-Pierre_Vanhove-blue)](https://pierrevanhove.github.io)
 [![Language: Python](https://img.shields.io/badge/Language-Python-yellow?logo=python)](https://www.python.org/downloads/)
