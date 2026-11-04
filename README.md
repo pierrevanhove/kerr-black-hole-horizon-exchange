@@ -1,6 +1,6 @@
 # Kerr horizon-exchange law: numerical checks
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23922017.svg)](https://doi.org/10.5281/zenodo.23922017)
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2611.05054-b31b1b.svg)](https://arxiv.org/abs/2611.05054)
 [![Author: Pierre Vanhove](https://img.shields.io/badge/author-Pierre_Vanhove-blue)](https://pierrevanhove.github.io)
 [![Language: Python](https://img.shields.io/badge/Language-Python-yellow?logo=python)](https://www.python.org/downloads/)
 [![mpmath](https://img.shields.io/badge/mpmath-1.3%2B-orange.svg)](https://mpmath.org)
@@ -8,7 +8,7 @@
 Scripts and data for the numerical checks in
 
 > **Horizon exchange and the universal all-spin response of Kerr**\
-> Pierre Vanhove, LAPTH-050/26, 
+> Pierre Vanhove, [arXiv:2611.05054](https://arxiv.org/abs/2611.05054)
 
 The radial Teukolsky equation for Kerr is invariant under exchange of the outer and inner horizons,
 although the physical boundary condition is not. The paper derives an exact monodromy relation between
@@ -85,7 +85,7 @@ If you use these scripts, please cite the paper:
 @article{Vanhove:horizonexchange,
   author        = {Vanhove, Pierre},
   title         = {Horizon exchange and the universal all-spin response of {K}err},
-  eprint        = {XXXX.XXXXX},
+  eprint        = {2611.05054},
   archivePrefix = {arXiv},
   year          = {2026}
 }
