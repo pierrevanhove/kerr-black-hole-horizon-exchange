@@ -16,7 +16,7 @@ the tidal responses selected at the two horizons (the *exchange law*, Eq. (6)) a
 Kerr–Compton response into exchange-odd and exchange-even parts. This repository reproduces the
 numerical statements of the paper and of its Supplemental Material.
 
-Equation, section and item numbers refer to the final paper (LAPTH-050/26): main-text equations are
+Equation, section and item numbers refer to the final paper ([arXiv:2611.05054](https://arxiv.org/abs/2611.05054)): main-text equations are
 (1)–(23), Supplemental equations (S1)–(S48), and Supplemental sections S1–S8. See [CHECKS.md](CHECKS.md)
 for the complete map of checks with paper references.
 
@@ -91,7 +91,7 @@ If you use these scripts, please cite the paper:
 }
 ```
 
-Archived release: Zenodo DOI to be added.
+Archived release: [10.5281/zenodo.23922017](https://zenodo.org/records/23922017)
 
 
 ## Acknowledgments
